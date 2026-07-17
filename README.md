@@ -23,8 +23,7 @@
 | 광고 영상 가로형 | `safety_report_ad_16x9_final_v1.mp4` | 8.312초, 1920×1080, 30fps, H.264, AAC, 44.1kHz 스테레오 |
 | 광고 영상 세로형 | `safety_report_ad_9x16_final_v1.mp4` | 8.312초, 1080×1920, 30fps, H.264, AAC, 44.1kHz 스테레오 |
 | 제작 과정 기록 | `README.md` | Markdown |
-| 스토리보드 원고 | `safety_report_storyboard.md` | Markdown, PDF 변환용 |
-| 제출용 스토리보드 | `safety_report_storyboard.pdf` | Markdown 원고를 PDF로 변환하여 제출 |
+| 제출용 스토리보드 | `스토리보드` | PDF |
 
 두 영상 모두 과제의 **10초 이내**, **720p 이상**, **H.264/AAC 권장 사양**을 충족한다.
 
